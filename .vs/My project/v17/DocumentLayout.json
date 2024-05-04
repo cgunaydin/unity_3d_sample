@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cagri\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\cagri\\my project\\assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\cagri\\my project\\assets\\scripts\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\unitselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\enemyunitfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyunitfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\healthtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\attackmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\attackmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\unitattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\enemyunitattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyunitattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\attackcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\enemyattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\unitfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\unitattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\unitselectionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitselectionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\objectselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\rtscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rtscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\interactobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\interactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\enemyunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Cagri\\My project\\assets\\scripts\\enemyunitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyunitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\EnemySpawner.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:56:22.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttackMarker.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\AttackMarker.cs",
+              "RelativeDocumentMoniker": "Assets\\AttackMarker.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\AttackMarker.cs",
+              "RelativeToolTip": "Assets\\AttackMarker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:59:12.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttackControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\AttackControllerBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackControllerBase.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\AttackControllerBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackControllerBase.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAvwEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:16:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitAttackController.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitAttackController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitAttackController.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitAttackController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitAttackController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:32:14.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyAttackController.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyAttackController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAttackController.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyAttackController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAttackController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:32:17.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ObjectSelectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\ObjectSelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectSelectionManager.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\ObjectSelectionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectSelectionManager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:02:30.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InteractObject.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\InteractObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractObject.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\InteractObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:02:05.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InteractController.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\InteractController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractController.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\InteractController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:00:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyUnit.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyUnit.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyUnit.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:58:06.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\HealthTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthTracker.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\HealthTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthTracker.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:40:31.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyUnitIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnitIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyUnitIdleState.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnitIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyUnitIdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:00:23.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyUnitFollowState.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnitFollowState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyUnitFollowState.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnitFollowState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyUnitFollowState.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwC8AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:00:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyUnitAttackState.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnitAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyUnitAttackState.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\EnemyUnitAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyUnitAttackState.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwEMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:00:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimplePatrol.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\SimplePatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimplePatrol.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\SimplePatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimplePatrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:33:29.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitSelectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitSelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitSelectionManager.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitSelectionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitSelectionManager.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAgwHAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:07:12.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitMovement.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitMovement.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:07:08.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitAttackState.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitAttackState.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitAttackState.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwEYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:58:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unit.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\Unit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:07:07.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitSelectionBox.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitSelectionBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitSelectionBox.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitSelectionBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitSelectionBox.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwE8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:07:10.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitIdleState.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitIdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:44:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitFollowState.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitFollowState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitFollowState.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\UnitFollowState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitFollowState.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwC4AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:13:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RTSCameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\RTSCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RTSCameraController.cs",
+              "ToolTip": "C:\\Users\\Cagri\\My project\\Assets\\Scripts\\RTSCameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RTSCameraController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAmwMQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:07:05.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
